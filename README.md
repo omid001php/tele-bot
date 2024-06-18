@@ -31,3 +31,5 @@ Step 5: Use the Bot
   2. Use the /sync command to sync the raw file from GitHub.
 
 
+pip install requests
+
