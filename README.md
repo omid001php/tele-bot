@@ -20,7 +20,7 @@ Step 3: Set Up Your GitHub Repository
   1. Create a new GitHub repository.
   2. Add your raw file to the repository.
 
-Step 4: Run the Bot
+Step 4: Run the Bot:
   1.Create a new Python file (e.g., bot.py) and add the bot code.
   2.Replace 'YOUR_BOT_TOKEN', 'YOUR_GITHUB_REPO', and 'YOUR_GITHUB_RAW_FILE' with your actual bot token and GitHub repository and file information.
   3.Run the bot using the following command:
