@@ -3,8 +3,9 @@ that can be used to sync a raw file from GitHub and send updates to the bot. Thi
 
 
 To run this bot, you'll need to follow these steps:
-**Step 1: Install the Required Libraries
-**
+
+Step 1: Install the Required Libraries
+
 
   Install the python-telegram-bot library using pip:
 pip install python-telegram-bot
